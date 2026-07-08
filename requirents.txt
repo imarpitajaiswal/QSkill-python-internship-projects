@@ -1,0 +1,8 @@
+flask
+textblob
+scikit-learn
+pandas
+numpy
+python-dotenv
+google-genai
+duckduckgo-search
